@@ -1,0 +1,21 @@
+
+body {
+  box-sizing: border-box;
+  height: 100%;
+  text-align: center;
+  background-color: #fd935f
+
+}
+.jumbo {
+ display: flex;
+ height: 50vh;
+ align-items: center;
+}
+
+.jumboLeft,
+.jumboRight {
+width: 50%;
+}
+.jumboLeft {
+  font-size: 3em;
+}
